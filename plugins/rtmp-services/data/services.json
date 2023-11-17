@@ -1011,10 +1011,6 @@
                     "url": "rtmp://live-nld.stream.highwebmedia.com/live-origin"
                 },
                 {
-                    "name": "EU: Alblasserdam, NL",
-                    "url": "rtmp://live-alb.stream.highwebmedia.com/live-origin"
-                },
-                {
                     "name": "EU: Frankfurt, DE",
                     "url": "rtmp://live-fra.stream.highwebmedia.com/live-origin"
                 },
@@ -1167,25 +1163,6 @@
             "recommended": {
                 "keyint": 2,
                 "profile": "high"
-            },
-            "supported video codecs": [
-                "h264"
-            ]
-        },
-        {
-            "name": "Looch",
-            "common": false,
-            "servers": [
-                {
-                    "name": "Primary Looch ingest server",
-                    "url": "rtmp://ingest.looch.tv/live"
-                }
-            ],
-            "recommended": {
-                "keyint": 2,
-                "profile": "main",
-                "max video bitrate": 6000,
-                "max audio bitrate": 160
             },
             "supported video codecs": [
                 "h264"
